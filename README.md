@@ -1,8 +1,5 @@
 ### Hi there, I'm - [℃ℓ𝐢ήtø𝐧 ᗩ𝔟ⓡ𝐚hαＭ][website] 👋
 
-[![Telegram](https://img.shields.io/website?label=Clinton&style=for-the-badge&url=https://t.me)](https://t.me/clinton_abraham)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CLINTONABRAHAMA?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=CLINTONABRAHAMA)
-
 ## I'm a Developer and Hacker!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
@@ -47,14 +44,10 @@
 <br />
 <br />
 
----
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Clinton-Abraham GitHub Stats" src="https://github-readme-stats.Clinton-Abraham.vercel.app/api?username=Clinton-Abraham&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
