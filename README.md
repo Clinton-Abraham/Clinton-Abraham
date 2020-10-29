@@ -1,6 +1,6 @@
-### Hi there, I'm - [℃ℓ𝐢ήtø𝐧 ᗩ𝔟ⓡ𝐚hαＭ][website] 👋
+## Hi there, I'm - [℃linton Abraham][website] 👋
 
-## I'm a Developer and Hacker!!
+#### I'm a Developer and Hacker!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
