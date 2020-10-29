@@ -48,7 +48,7 @@
 <br  />
 
 </p>
-<p align='center'>
+<p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Clinton-Abraham&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
 [website]: https://codeSTACKr.com
