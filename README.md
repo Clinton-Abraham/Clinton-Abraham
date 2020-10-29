@@ -47,7 +47,9 @@
 
 <br  />
 
- <img align="left" alt="Clinton-Abraham GitHub Stats" src="https://github-readme-stats.Clinton-Abraham.vercel.app/api?username=Clinton-Abraham&show_icons=true&hide_border=true" />
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Clinton-Abraham&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
