@@ -53,7 +53,7 @@
 [course]: http://vsCodeHero.com
 [Telegram]: https://t.me/clinton_abraham
 [twitter]: https://twitter.com/CLINTONABRAHAMA
-[youtube]: https://youtube.com/BOTMAN
+[youtube]: https://youtube.com/channel/UCfr5pl-yMrEgeUA17pNhBgQ
 [instagram]: https://instagram.com/h_a_c_k_e_r_c7
 [linkedin]: https://linkedin.com/in/clintonabraham
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
