@@ -1,7 +1,7 @@
 
 <h1 align='center'>
-  Hi there 👋  I'm   <a href="https://ayushkul.github.io/" target="_blank">
-  Ayush Kulshrestha</a> 👨‍💻
+  Hi there 👋  I'm   <a href="https://t.me/clinton_abraham/" target="_blank">
+  Clinton Abraham</a> 👨‍💻
 </h1>
 <p align='center'>
   Fullstack Developer at <a href="https://www.leewayhertz.com/software-development-company" target="_blank">Leewayhertz</a>
