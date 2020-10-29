@@ -58,6 +58,7 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
+[Telegram]: https://t.me/clinton_abraham
 [twitter]: https://twitter.com/CLINTONABRAHAMA
 [youtube]: https://youtube.com/ClintonAbraham
 [instagram]: https://instagram.com/h_a_c_k_e_r_c7
