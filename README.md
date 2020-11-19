@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm - ℃linton Abraham
 
 
-#### I'm a Developer and Hacker!!
+#### I'M A NOOB DEVELOPER
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
