@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm - [℃linton Abraham][website] 
+## 👋 Hi there, I'm - ℃linton Abraham
 
 
 #### I'm a Developer and Hacker!!
