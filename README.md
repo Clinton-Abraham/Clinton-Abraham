@@ -24,8 +24,6 @@
 <br />
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
 [Telegram]: https://t.me/clinton_abraham
 [twitter]: https://twitter.com/CLINTONABRAHAMA
 [youtube]: https://youtube.com/channel/UCfr5pl-yMrEgeUA17pNhBgQ
