@@ -5,5 +5,5 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Clinton-Abraham&show=prs&count_private=true&show_icons=true&theme=algolia)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/) [Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/&title=Profile%20Views)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/) | ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/&title=Profile%20Views)
 
