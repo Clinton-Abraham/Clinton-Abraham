@@ -6,7 +6,7 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/&title=Profile%20Views) 
 
-[![telegram badge](https://img.shields.io/badge/Cl𝖏ήtø𝐧 AbrahaM-30302f?style=flat&logo=telegram)](https://telegram.dog/clinton_abraham)
+[![telegram badge](https://img.shields.io/badge/Cliήtø𝐧 AbrahaM-30302f?style=flat&logo=telegram)](https://telegram.dog/clinton_abraham)
 
 
 
