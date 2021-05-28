@@ -7,5 +7,10 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/&title=Profile%20Views)   [![telegram badge](https://img.shields.io/badge/C͡ℓ𝖏ήtø𝐧ㅤᗩ𝔟ⓡ𝐚ꫝαＭ-30302f?style=flat&logo=telegram)](https://telegram.dog/clinton_abraham_bot)  [![telegram badge](https://img.shields.io/badge/SPACEㅤXㅤBOTS-30302f?style=flat&logo=telegram)](https://telegram.dog/Space_x_bots)
 
 
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Clinton-Abraham}/count.svg" /></p> 
+
+
+
 
 
