@@ -12,9 +12,6 @@
 
 
 
-
-### Contribution Graph:
-
 <p align="center">
   <a href="https://github.com/Clinton-Abraham">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton-Abraham#version3"/>
