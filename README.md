@@ -2,10 +2,6 @@
 
 
 
-
-![✨](https://github-readme-stats.vercel.app/api?username=Clinton-Abraham&show=prs&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
 <p align="center">
   <a href="https://github.com/Clinton-Abraham">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton-Abraham#version3"/>
@@ -19,3 +15,6 @@
 
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Clinton-Abraham}/count.svg" /></p> 
+
+
+![✨](https://github-readme-stats.vercel.app/api?username=Clinton-Abraham&show=prs&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
