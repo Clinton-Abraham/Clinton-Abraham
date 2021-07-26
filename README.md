@@ -1,6 +1,3 @@
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Clinton Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
 <p align="center">
   <a href="https://github.com/Clinton-Abraham">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton-Abraham#version3"/>
