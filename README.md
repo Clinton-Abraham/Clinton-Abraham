@@ -21,3 +21,7 @@
 
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Clinton-Abraham}/count.svg" /></p> 
+
+<div align="center">
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clinton-Abraham&theme=github_dark&layout=compact&hide_border=true)  
+</div>
