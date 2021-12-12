@@ -10,7 +10,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clinton-Abraham&show=prs&count_private=true&custom_title=GitHub+Stats&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)  
  
 </div>
-
 <p align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/&title=𝑯𝒊𝒕𝒔" alt="𝑯𝒊𝒕𝒔"/>
     <a href="https://telegram.dog/clinton_abraham"><img src="https://img.shields.io/badge/𝑪𝒍𝒊𝒏𝒕𝒐𝒏.𝑨𝒃𝒓𝒂𝒉𝒂𝒎-30302f?style=flat&logo=telegram" alt="telegram badge"/>
