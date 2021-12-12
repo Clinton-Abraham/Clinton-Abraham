@@ -9,5 +9,13 @@
 ![𝑯𝒊𝒕𝒔](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/&title=𝑯𝒊𝒕𝒔)   [![telegram badge](https://img.shields.io/badge/𝑪𝒍𝒊𝒏𝒕𝒐𝒏.𝑨𝒃𝒓𝒂𝒉𝒂𝒎-30302f?style=flat&logo=telegram)](https://telegram.dog/clinton_abraham)  [![telegram badge](https://img.shields.io/badge/SPACEㅤXㅤBOTS-30302f?style=flat&logo=telegram)](https://telegram.dog/Space_x_bots)
 
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clinton-Abraham&custom_title=GitHub+Stats&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)  
+ 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clinton-Abraham&theme=github_dark&layout=compact&hide_border=true)  
+
+</div>
+
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Clinton-Abraham}/count.svg" /></p> 
