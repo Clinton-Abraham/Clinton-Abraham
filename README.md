@@ -22,6 +22,6 @@
 
 <div align="center">
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Clinton-Abraham&theme=github_dark&layout=compact&hide_border=true)  
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=Clinton-Abraham&theme=github_dark&layout=compact&hide_border=true)  
 
 </div>
