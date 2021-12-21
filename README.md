@@ -1,3 +1,18 @@
+<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Clinton-Abraham}/count.svg" /></p> 
+
+<div align="center">
+
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=Clinton-Abraham&theme=github_dark&layout=compact&hide_border=true)  
+
+</div>
+
+<p align="center">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/&title=𝑯𝒊𝒕𝒔" alt="𝑯𝒊𝒕𝒔"/>
+    <a href="https://telegram.dog/clinton_abraham"><img src="https://img.shields.io/badge/𝑪𝒍𝒊𝒏𝒕𝒐𝒏.𝑨𝒃𝒓𝒂𝒉𝒂𝒎-30302f?style=flat&logo=telegram" alt="telegram badge"/>
+    <a href="https://telegram.dog/Space_x_bots"><img src="https://img.shields.io/badge/SPACE_X_BOTS-30302f?style=flat&logo=telegram" alt="telegram badge"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/Clinton-Abraham">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton-Abraham#version3"/>
@@ -9,18 +24,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clinton-Abraham&show=prs&count_private=true&custom_title=GitHub+Stats&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)  
  
-</div>
-<p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/&title=𝑯𝒊𝒕𝒔" alt="𝑯𝒊𝒕𝒔"/>
-    <a href="https://telegram.dog/clinton_abraham"><img src="https://img.shields.io/badge/𝑪𝒍𝒊𝒏𝒕𝒐𝒏.𝑨𝒃𝒓𝒂𝒉𝒂𝒎-30302f?style=flat&logo=telegram" alt="telegram badge"/>
-    <a href="https://telegram.dog/Space_x_bots"><img src="https://img.shields.io/badge/SPACE_X_BOTS-30302f?style=flat&logo=telegram" alt="telegram badge"/>
-</p>
-
-<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Clinton-Abraham}/count.svg" /></p> 
-
-<div align="center">
-
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=Clinton-Abraham&theme=github_dark&layout=compact&hide_border=true)  
-
 </div>
