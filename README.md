@@ -10,7 +10,7 @@
 <p align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Clinton-Abraham/&title=𝑯𝒊𝒕𝒔" alt="𝑯𝒊𝒕𝒔"/>
     <a href="https://telegram.dog/clinton_abraham"><img src="https://img.shields.io/badge/𝑪𝒍𝒊𝒏𝒕𝒐𝒏.𝑨𝒃𝒓𝒂𝒉𝒂𝒎-30302f?style=flat&logo=telegram" alt="telegram badge"/>
-    <a href="https://telegram.dog/Space_x_bots"><img src="https://img.shields.io/badge/SPACE_X_BOTS-30302f?style=flat&logo=telegram" alt="telegram badge"/>
+    <a href="https://telegram.dog/Space_x_bots"><img src="https://img.shields.io/badge/Sᴘᴀᴄᴇ ✗ ʙᴏᴛꜱ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
 </p>
 
 <div align="center">
