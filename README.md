@@ -1,3 +1,6 @@
+<p align="center">
+   <a href="https://www.buymeacoffee.com/clintonabraham" class="padded"><img height="30" style="border:0px;height:25px;" align="left" alt="Clintonabraham" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
+</p>
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Clinton-Abraham}/count.svg"/></p> 
 
@@ -8,7 +11,6 @@
 </div>
 
 <p align="center">
-   <a href="https://www.buymeacoffee.com/clintonabraham" class="padded"><img height="30" style="border:0px;height:25px;" align="left" alt="Clintonabraham" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
    <a href="https://telegram.dog/clinton_abraham"><img src="https://img.shields.io/badge/𝑪𝒍𝒊𝒏𝒕𝒐𝒏 𝑨𝒃𝒓𝒂𝒉𝒂𝒎-30302f?style=flat&logo=telegram" alt="telegram badge"/>
    <a href="https://telegram.dog/Space_x_bots"><img src="https://img.shields.io/badge/Sᴘᴀᴄᴇ ✗ ʙᴏᴛꜱ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
    <a href="https://telegram.dog/sources_codes"><img src="https://img.shields.io/badge/Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇꜱ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
