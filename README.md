@@ -2,6 +2,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Clinton-Abraham}/count.svg"/></p> 
 
 
+<div align="center">
+
+![🔥](https://github-readme-stats.vercel.app/api/top-langs/?username=Clinton-Abraham&theme=github_dark&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&layout=compact&hide_border=false)
+
 <p align="center">
    <a href="https://telegram.dog/clinton_abraham"><img src="https://img.shields.io/badge/𝑪𝒍𝒊𝒏𝒕𝒐𝒏 𝑨𝒃𝒓𝒂𝒉𝒂𝒎-30302f?style=flat&logo=telegram" alt="telegram badge"/></a>
    <a href="https://telegram.dog/Space_x_bots"><img src="https://img.shields.io/badge/Sᴘᴀᴄᴇ ✗ ʙᴏᴛꜱ-30302f?style=flat&logo=telegram" alt="telegram badge"/></a>
