@@ -26,9 +26,8 @@
 
 ## 🌐 Links & Social Profiles
 
-- 📷 Instagram:  
-  - https://instagram.com/DC4_WARRIOR  
-  - https://instagram.com/DC4.WARRIOR  
+- 📷 Instagram:    
+  https://instagram.com/DC4.WARRIOR  
 
 - 💼 LinkedIn:  
   https://linkedin.com/in/DC4WARRIOR  
@@ -51,4 +50,4 @@
 
 ---
 
-© 2025 Clinton Abraham | DC4 WARRIOR
+© 2026 Clinton Abraham | DC4 WARRIOR
