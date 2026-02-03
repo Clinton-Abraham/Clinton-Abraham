@@ -1,4 +1,8 @@
+<p align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,100:000000&height=200&section=header&text=Clinton%20Abraham&fontColor=ffb347&fontSize=40&animation=fadeIn&fontAlignY=35"/>
+
+</p>
 
 ## 👨‍💼 Professional Details
 
@@ -11,18 +15,12 @@
 
 ## 🎓 Education
 
-- Alltechz Solutions, Chennai
-- Mar Ephraem College of Engineering & Technology
-- Sun College of Engineering and Technology, Nagercoil  
+- Alltechz Solutions, Chennai ( Networking )  
+- Mar Ephraem College of Engineering & Technology ( B.E )  
+- Sun College of Engineering and Technology, Nagercoil ( Diploma )  
 
 ---
 
-## 📌 Personal Information
-
-- **Relationship Status:** Single  
-- **Joined:** January 2018
-
----
 
 ## 🌐 Links & Social Profiles
 
@@ -48,8 +46,7 @@
 
 ---
 
-⭐️ *Digital Creator | Developer | Tech Enthusiast*
-
----
-
-© 2026 Clinton Abraham | DC4 WARRIOR
+<p align="center">
+  Digital Creator | Developer | Tech Enthusiast<br>
+  <b>© 2026 Clinton Abraham | DC4 WARRIOR</b><br>
+</p>
