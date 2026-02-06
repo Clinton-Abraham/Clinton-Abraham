@@ -6,8 +6,8 @@
 
 ### 👨‍💼 Professional Details
 
-- **Profile:** Tech Enthusiast
-- **Working At:** [SPACE X BOTS](https://telegram.me/space_x_bots)
+- **Profile :** Tech Enthusiast
+- **Working At :** [SPACE X BOTS](https://telegram.me/space_x_bots)
 - **Founder & Developer :** [SPACE X BOTS](https://telegram.me/space_x_bots)
 - **Former PPC Engineer :** Ford - Chennai, India
 - **Former Store Manager :** Airtel - Kanyakumari, India
