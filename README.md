@@ -42,8 +42,19 @@
   https://youtube.com/@DC4-WARRIOR  
 
 - 🌍 Website:  
-  https://clintonabraham.koyeb.app  
+  https://clintonabraham.koyeb.app
 
+- 📦 PYPI:  
+  https://pypi.org/user/Clinton.Abraham  
+
+- 🛢️ DockerHub:  
+  https://hub.docker.com/u/dc4warrior
+
+- 🚀 Telegram:  
+  https://telegram.me/dc4_warrior  
+  https://telegram.me/space_x_bots  
+  https://telegram.me/sources_codes  
+  https://telegram.me/clinton_abraham
 ---
 
 <p align="center">
