@@ -16,9 +16,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎓 Education  
-- Alltechz Solutions, Chennai ( Networking )  
-- Mar Ephraem College of Engineering & Technology ( B.E )  
-- Sun College of Engineering and Technology, Nagercoil ( Diploma )  
+- Alltechz Solutions, Chennai ( A+, N+, CCNA & CCNP )  
+- Mar Ephraem College of Engineering & Technology ( B.E in Mechanical engineering )  
+- Sun College of Engineering and Technology, Nagercoil ( Diploma in Mechanical engineering )  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -34,10 +34,10 @@
 <img src="https://cdn.simpleicons.org/pinterest/BD081C" width="10"/> Pinterest  
 ㅤ[Clonton_Abraham](https://pinterest.com/Clinton_Abraham)
 
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="10"/> Website  
+<img src="https://avatars.githubusercontent.com/u/1778935?s=200&v=4" width="10"/> Website  
 ㅤ[clintonabaham.com](https://clintonabraham.koyeb.app)
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="10"/> PyPI  
+<img src="https://www.sonatype.com/hs-fs/hubfs/pypi.png?width=299&height=300&name=pypi.png" width="10"/> PyPI  
 ㅤ[Clinton.Abraham](https://pypi.org/user/Clinton.Abraham)
 
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="10"/> DockerHub  
@@ -50,10 +50,11 @@
 ㅤ[Clinton-Abraham](https://github.com/Clinton-Abraham)  
 
 <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="10"/> Telegram  
-ㅤ[DC4_WARRIOR](https://t.me/dc4_warrior)  
-ㅤ[SPACE_X_BOTS](https://t.me/space_x_bots)  
-ㅤ[SOURCES_CODES](https://t.me/sources_codes)  
-ㅤ[Clinton_Abaraham](https://t.me/clinton_abraham)
+ㅤ[DC4_WARRIOR](https://telegram.me/dc4_warrior)  
+ㅤ[SPACE_X_BOTS](https://telegram.me/space_x_bots)  
+ㅤ[SOURCES_CODES](https://telegram.me/sources_codes)  
+ㅤ[Clinton_Abaraham](https://telegram.me/clinton_abraham)  
+ㅤ[WARRIOR_TECHNOLOGY](https://telegram.me/WARRIOR_TECHNOLOGY)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="center">
