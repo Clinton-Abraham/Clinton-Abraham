@@ -8,8 +8,10 @@
 
 - **Profile:** Tech Enthusiast
 - **Working At:** [SPACE X BOTS](https://telegram.me/space_x_bots)
-- **Founder & Developer:** [SPACE X BOTS](https://telegram.me/space_x_bots)
-- **Former Technical Advisor:** Harley-Davidson India  
+- **Founder & Developer :** [SPACE X BOTS](https://telegram.me/space_x_bots)
+- **Former PPC Engineer :** Ford - Chennai, India
+- **Former Store Manager :** Airtel - Kanyakumari, India
+- **Former Technical Advisor :** Harley Davidson - Chennai, India  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
