@@ -4,25 +4,24 @@
 
 </p>
 
-## 👨‍💼 Professional Details
+### 👨‍💼 Professional Details
 
-- **Profile:** Digital Creator
-- **Working At:** Robotics Engineering
-- **Founder & Developer:** Space X Bots
+- **Profile:** Tech Enthusiast
+- **Working At:** [SPACE X BOTS](https://telegram.me/space_x_bots)
+- **Founder & Developer:** [SPACE X BOTS](https://telegram.me/space_x_bots)
 - **Former Technical Advisor:** Harley-Davidson India  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎓 Education
-
+### 🎓 Education  
 - Alltechz Solutions, Chennai ( Networking )  
 - Mar Ephraem College of Engineering & Technology ( B.E )  
 - Sun College of Engineering and Technology, Nagercoil ( Diploma )  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-## 🌐 Links & Social Profiles
+<details>
+  <summary> 🌐 Links & Social Profiles</summary>  
 
 - 📷 Instagram:    
   https://instagram.com/DC4.WARRIOR  
@@ -61,3 +60,4 @@
   Digital Creator | Developer | Tech Enthusiast<br>
   <b>© 2026 Clinton Abraham | DC4 WARRIOR</b><br>
 </p>
+</details>
