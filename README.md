@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,100:000000&height=200&section=header&text=Clinton%20Abraham&fontColor=ffb347&fontSize=40&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,100:000000&height=200&section=header&text=Clinton%20Abraham&fontColor=FFFFFF&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </p>
 
@@ -25,19 +25,14 @@
 <details>
   <summary> 🌐 Links & Social Profiles</summary>  <br>
 
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="10"/> YouTube  
+ㅤ[DC4-WARRIOR](https://youtube.com/@DC4-WARRIOR)
+
 <img src="https://cdn.simpleicons.org/instagram/E4405F" width="10"/> Instagram<br>
 ㅤ[DC4.WARRIOR](https://instagram.com/DC4.WARRIOR)
 
 <img src="https://cdn.simpleicons.org/pinterest/BD081C" width="10"/> Pinterest  
 ㅤ[Clonton_Abraham](https://pinterest.com/Clinton_Abraham)
-
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="10"/> GitHub  
-ㅤ[DC4-WARRIOR](https://github.com/DC4-WARRIOR)  
-ㅤ[SPACE-X-BOTS](https://github.com/Space-x-bots)  
-ㅤ[Clinton-Abraham](https://github.com/Clinton-Abraham)  
-
-<img src="https://cdn.simpleicons.org/youtube/FF0000" width="10"/> YouTube  
-ㅤ[DC4-WARRIOR](https://youtube.com/@DC4-WARRIOR)
 
 <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="10"/> Website  
 ㅤ[clintonabaham.com](https://clintonabraham.koyeb.app)
@@ -46,7 +41,13 @@
 ㅤ[Clinton.Abraham](https://pypi.org/user/Clinton.Abraham)
 
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="10"/> DockerHub  
-ㅤ[dc4warrior](https://hub.docker.com/u/dc4warrior)
+ㅤ[dc4warrior](https://hub.docker.com/u/dc4warrior)  
+ㅤ[clintonabraham](https://hub.docker.com/u/clintonabraham)
+
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="10"/> GitHub  
+ㅤ[DC4-WARRIOR](https://github.com/DC4-WARRIOR)  
+ㅤ[SPACE-X-BOTS](https://github.com/Space-x-bots)  
+ㅤ[Clinton-Abraham](https://github.com/Clinton-Abraham)  
 
 <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="10"/> Telegram  
 ㅤ[DC4_WARRIOR](https://t.me/dc4_warrior)  
